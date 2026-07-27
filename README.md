@@ -122,9 +122,10 @@ print("====================================")
 # Subject 1 : 85
 # Subject 2 : 90
 # Subject 3 : 88
-#Author:Sankar
+#
 
 # Total     : 263
 # Average   : 87.67
 #
 # Grade     : B
+# Author:Sankar 
